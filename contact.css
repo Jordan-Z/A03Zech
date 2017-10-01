@@ -1,0 +1,60 @@
+.background {
+    background-image: url("mountain.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+form {
+    padding-left: 300px;
+    padding-top: 0px;
+}
+
+input {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#que {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+h3 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #33FF00;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #FFFFFF;
+}
+.active {
+    background-color: #046307;
+}
+
+p {
+    color:darkblue;
+    padding-left: 500px;
+    font-size: 25px;
+    background-color: green;
+}

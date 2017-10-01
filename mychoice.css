@@ -1,0 +1,50 @@
+#title {
+    text-align: center;
+    font-size: 30px;
+    color: rgba(16, 138, 0, 0.62);
+}
+
+.background {
+    background-image: url(money.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    color: green;
+    padding-top: 0px;
+}
+
+input {
+    block-size: 20px;
+    font-size: 15px;
+    border-color: red;
+    padding-top: 1px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #1DD60C;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #FFFFFF;
+}
+.active {
+    background-color: #075F0A;
+}
