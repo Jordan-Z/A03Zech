@@ -1,0 +1,20 @@
+{
+    "name": "A03Zech",
+    "version": "0.0.1",
+    "description": "simple guestbook app",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "latest",
+        "ejs": "latest",
+        "express": "latest",
+        "http-server": "^0.10.0",
+        "morgan": "latest"
+    },
+    "author": "Denise Case",
+    "homepage": "https://bitbucket.org/professorcase/m07",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/professorcase/m07"
+    },
+    "license": "Apache-2.0"
+}
